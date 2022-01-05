@@ -1,0 +1,14 @@
+header{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input[type = button]{
+    width: 150px;
+    height: 100px;
+}
+
+#res{
+    font-size: 18px;
+    margin-top: 10px;
+}
